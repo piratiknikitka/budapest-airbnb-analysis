@@ -1,0 +1,9 @@
+block,R2
+host group only,0.001
+bedrooms only,0.302
+district only,0.023
+rating + superhost only,0.025
+quote month only,0.016
+bedrooms + district,0.326
+full model without host group,0.355
+full model,0.357
