@@ -2,7 +2,10 @@
 
 An exploratory analysis of 11,240 Airbnb listings in Budapest. Ratings are squeezed against the top of the scale and tell guests little, so what actually explains differences in price and demand: apartment size, location, or who the host is?
 
-**Interactive dashboards:** [Tableau Public](TABLEAU_LINK)
+**Interactive dashboards:** [Tableau Public](https://public.tableau.com/app/profile/mikita.mayorau/viz/AirBnB-D1/Dashboard1)
+
+![Dashboard 1: ratings and ownership](outputs/dashboards/dashboard_1.png)
+![Dashboard 2: price and demand](outputs/dashboards/dashboard_2.png)
 
 ## Data
 
